@@ -1,51 +1,37 @@
-📚 Library Management System (C++)
-📌 Project Overview
+# Library Management System (C++)
 
-This project is a console-based Library Management System developed using C++ as an academic practice project.
-It allows basic management of books including adding, searching, displaying, and deleting book records.
+## Overview
+A simple console-based Library Management System developed using C++.  
+The program allows managing books in a small library environment through basic operations such as adding, searching, displaying, and deleting books.
 
-The project focuses on applying fundamental programming concepts such as structures, arrays, functions, and control flow.
+This project was built during my early learning stage in C++ to strengthen problem-solving skills, control structures, and data handling using structs and arrays.
 
-✨ Features
+---
 
-Add new books to the library
+## Features
+- Add new books (title, author, price)
+- Search for a book by title
+- Display all available books
+- Delete a specific book
+- Menu-driven console interface
 
-Search for a specific book by title
+---
 
-Display all available books
+## Technologies Used
+- C++
+- Console I/O
+- Structures (`struct`)
+- Arrays
+- Control flow (loops & conditions)
 
-Delete books from the library
+---
 
-Simple and interactive console menu
+## Notes
+- This project represents an early academic implementation.
+- Focused on logic and functionality rather than optimization or advanced data structures.
+- Can be improved using vectors, file handling, and object-oriented design.
 
-🛠️ Technologies Used
+---
 
-Language: C++
-
-Concepts:
-
-Structures (struct)
-
-Arrays
-
-Functions
-
-Loops & Conditional Statements
-
-🎓 Project Type
-
-Academic / Practice Project
-
-Developed during early university studies
-
-Built without using external libraries or frameworks
-
-⚠️ Notes
-
-Data is stored temporarily in memory (no file/database storage).
-
-The project reflects early-stage programming skills and learning progress.
-
-📌 Author
-
-Muhammed Saleh Balaswad
+## Author
+**Muhammed Balaswad**  
