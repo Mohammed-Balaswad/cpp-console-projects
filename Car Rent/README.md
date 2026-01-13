@@ -1,14 +1,22 @@
-## Car Rental System (C++)
+## Car Rental Console Application (C++)
 
-A console-based application that allows users to:
-- Browse available car companies
-- View car specifications
-- Navigate between services using menus
+This is a console-based car rental system developed using C++ as part of my early programming practice.
 
-### Concepts Used
-- Functions and modular programming
-- Conditional logic
-- Loops and input validation
+### Features
+- Display available car companies (Toyota, Hyundai)
+- View car specifications and prices
+- Simple menu-based navigation
+- User input validation
+- Modular structure using functions
 
-> This project was developed during my early learning stage and focuses on
-> logic and structure rather than modern C++ standards.
+### Purpose
+This project was built to strengthen my understanding of:
+- Control flow
+- Functions
+- User interaction
+- Basic program structure in C++
+
+### Notes
+- This project was developed before using AI tools.
+- The code reflects my early programming level and focuses on logic rather than optimization.
+- Future improvements may include removing `goto`, improving structure, and applying OOP principles.
